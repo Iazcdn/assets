@@ -1,0 +1,2 @@
+# assets
+g.lazcdn.com
