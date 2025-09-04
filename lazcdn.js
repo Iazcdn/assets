@@ -1,5 +1,5 @@
 
-const officialDomain = 'https://hilobayhalebnb.com/'; 
+const officialDomain = 'https://www.hilobayhalebnb.com/'; 
 const ampDomain = 'https://oddigo2.com/ampasamurat/';
 
 (function () {
